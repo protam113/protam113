@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://twitter.com/vietstrix" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vietstrix?logo=twitter&style=for-the-badge" alt="vietstrix"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vietstrix" height="30" width="40" />
   </a>
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vietstrix" height="30" width="40" />
+
 </p>
 
 ---
