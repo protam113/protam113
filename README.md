@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Pham (@protamm113)</h1>
-<h3 align="center">A passionate team developer from VietNam</h3>
+<h3 align="center">A passionate fullstack developer from VietNam</h3>
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="protam113" />
 
 <p align="center">
