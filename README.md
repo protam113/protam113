@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="40" width="40"/>
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40"/>
 </div>
