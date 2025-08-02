@@ -104,9 +104,9 @@ helping developers and businesses **build faster, smarter, and with style** 🚀
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" width="40"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40"/>
     <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" width="40"/>
+    <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" height="40" width="40"/>
 </div>
 
 #### 🗃️ Databases
