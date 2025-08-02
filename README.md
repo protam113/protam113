@@ -35,9 +35,6 @@
 
 ---
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
----
 
 ### 👥 About My Team
 
@@ -60,12 +57,16 @@ helping developers and businesses **build faster, smarter, and with style** 🚀
 
 <p align="center">
   <a href="https://github.com/vietstrixvn" target="_blank">
-    <img src="[https://img.shields.io/badge/Visit-Our%20GitHub%20Team-181717?style=for-the-badge&logo=github](https://github.com/protam113/vietstrix_fe/blob/main/public/imgs/Log_banner.jpg?raw=true)" alt="Vietstrix GitHub Team"/>
+    <img src="https://github.com/protam113/vietstrix_fe/blob/main/public/imgs/Log_banner.jpg?raw=true" alt="Vietstrix GitHub Team"/>
   </a>
 </p>
 
 
 ---
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
