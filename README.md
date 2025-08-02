@@ -17,7 +17,7 @@
   &nbsp;&nbsp;
   <!-- GitHub Team -->
   <a href="https://github.com/vietstrixvn" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/210823128?v=4" alt="github team"/>
+    <img src="https://avatars.githubusercontent.com/u/210823128?v=4" alt="github team" height="28" style="border-radius:50%;" />
   </a>
 </p>
 
