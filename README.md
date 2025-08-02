@@ -35,6 +35,20 @@
 
 ---
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Call me: ***He/His*** or ***Fullstack Dreamer***  <br>
+✔ I’m currently building an **MVP platform** that auto-generates backend APIs + **microservices** just by ticking modules  <br>
+✔ I’m diving deeper into **cloud deployment, NestJS, and backend architecture**  <br>
+✔ I’m looking to collaborate on **cool open-source web / cloud projects**  <br>
+✔ Ask me anything about **Next.js / React / NestJS / Databases** – if I’m awake, I reply fast  <br>
+✔ Fun fact: *I learn new tech at 2AM and somehow remember it after sleeping*  <br>
+✔ Dream: *Run my own tech startup and make something the world remembers*  <br><br><br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+
 ### 💻 Languages & Tools
 
 #### 🌐 Frontend
@@ -51,16 +65,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40" width="40"/>
+   <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40"/>
 </div>
 
 #### 🧩 Frameworks / Libraries
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" width="40"/>
-  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40"/>
+    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" width="40"/>
 </div>
 
 #### 🗃️ Databases
@@ -69,8 +84,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" width="40"/>
 </div>
 
 #### ☁️ Cloud / DevOps / CDN
@@ -81,7 +94,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" width="40"/>
 </div>
 
 #### 🔧 Tools
@@ -104,3 +116,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=protam113&show_icons=true&locale=en&layout=compact" alt="protam113" />
 </p>
+
+---
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
