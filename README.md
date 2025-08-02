@@ -37,6 +37,36 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+---
+
+### 👥 About My Team
+
+<p align="center">
+  <a href="https://github.com/vietstrixvn" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/210823128?v=4" alt="Vietstrix Team" height="80" style="border-radius:50%;" />
+  </a>
+</p>
+
+**I’m Hoang Pham (@protamm113)** – a fullstack developer and **co-founder of [Vietstrix](https://github.com/vietstrixvn)**.  
+Together with my team, we are passionate about building and delivering:
+
+- ⚡ **Modern web and cloud applications**  
+- 🧩 **Developer tools** like automatic backend & microservices generators  
+- 🎨 **Full-stack websites with customized & personalized designs**  
+- 🌱 **Open-source projects** to support the developer community  
+
+We aim to **turn creative ideas into real-world products**,  
+helping developers and businesses **build faster, smarter, and with style** 🚀
+
+<p align="center">
+  <a href="https://github.com/vietstrixvn" target="_blank">
+    <img src="[https://img.shields.io/badge/Visit-Our%20GitHub%20Team-181717?style=for-the-badge&logo=github](https://github.com/protam113/vietstrix_fe/blob/main/public/imgs/Log_banner.jpg?raw=true)" alt="Vietstrix GitHub Team"/>
+  </a>
+</p>
+
+
+---
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Call me: ***He/His*** or ***Fullstack Dreamer***  <br>
