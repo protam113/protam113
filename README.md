@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hoang Pham (@protamm113)</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="protam113" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=protam113&label=Profile%20views&color=0e75b6&style=flat" alt="protam113" />
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="protam113" />
 </p>
 
+<!-- BADGES: Profile views + Twitter + GitHub -->
 <p align="center">
-  <a href="https://twitter.com/vietstrix" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vietstrix" height="30" width="40" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=protam113&label=Profile%20views&color=0e75b6&style=flat" alt="protam113" />
+  &nbsp;&nbsp;
+  <!-- Twitter -->
+  <a href="https://twitter.com/vietstrix" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vietstrix?logo=twitter&style=for-the-badge" alt="vietstrix"/>
   </a>
-
+  &nbsp;&nbsp;
+  <!-- GitHub Team -->
+  <a href="https://github.com/vietstrixvn" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/210823128?v=4" alt="github team"/>
+  </a>
 </p>
 
 ---
