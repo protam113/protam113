@@ -44,7 +44,7 @@
 ✔ I’m diving deeper into **cloud deployment, NestJS, and backend architecture**  <br>
 ✔ I’m looking to collaborate on **cool open-source web / cloud projects**  <br>
 ✔ Ask me anything about **Next.js / React / NestJS / Databases** – if I’m awake, I reply fast  <br>
-✔ Fun fact: *I learn new tech at 2AM and somehow remember it after sleeping*  <br>
+✔ Fun fact: *I always chase new ideas and tech trends, then get distracted by the next shiny thing 🤯* <br>
 ✔ Dream: *Run my own tech startup and make something the world remembers*  <br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
